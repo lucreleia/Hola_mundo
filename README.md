@@ -1,2 +1,2 @@
-# Hola_mundo
+# Prueba de uso
 Prueba de uso de GitHub
